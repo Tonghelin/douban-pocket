@@ -1,0 +1,91 @@
+.list_view {
+    /*border:1px solid red;*/
+    display: flex;
+    height:calc(100vh - 110px);
+    flex-direction: column;
+    /*width: 100%;*/
+    position: relative;
+    /*top: 85px;*/
+    overflow: auto;
+    /*justify-content: center;*/
+    align-items: center;
+}
+
+/* list-item*/
+.list-item-wrap {
+    width: 90%;
+    padding: 8px;
+}
+
+.list-item {
+    border: 1px solid #ad9fb0;
+    width: calc(100% - 16px);
+    height: 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-content: center;
+    /*margin-bottom: 20px;*/
+    padding: 8px;
+}
+.item-left {
+    border: 1px solid #dddddd;
+    width: 100px;
+    height: 130px;
+    margin-right: 15px;
+}
+.item-right-wrap{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding:0;
+}
+.item-right-wrap li{
+    letter-spacing: 1px;
+    list-style: none;
+    height: 25px;
+    overflow: hidden;  /* 超出显示省略号*/
+    line-height: 25px;
+    text-overflow:ellipsis;  /* 超出显示省略号*/
+    white-space: nowrap;  /* 超出显示省略号*/
+    flex:1; /* 超出显示省略号*/
+    /*display: flex;*/
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.item-right-wrap li.label-sign{
+    display: flex;
+}
+.item-right-wrap li span{
+    display: inline-block;
+    padding:0 5px;
+    margin-right: 8px;
+}
+
+.books-tags {
+    line-height: 25px;
+    border-radius: 5px;
+    margin-right: 8px;
+    background: orange;
+    color: #fff;
+    display: inline;
+}
+.movie-tags {
+    line-height: 25px;
+    border-radius: 5px;
+    margin-right: 8px;
+    background: #ff0d00;
+    color: #fff;
+    display: inline;
+}
+.music-tags {
+    line-height: 25px;
+    border-radius: 5px;
+    margin-right: 8px;
+    background: #ff3eef;
+    color: #fff;
+    display: inline;
+}
+
+

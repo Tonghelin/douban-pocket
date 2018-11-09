@@ -1,0 +1,1155 @@
+{
+    "count": 20,
+    "start": 0,
+    "total": 24,
+    "books": [
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+
+            ],
+            "pubdate": "",
+            "tags": [
+
+            ],
+            "origin_title": "",
+            "image": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "",
+            "images": {
+                "small": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+                "large": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+                "medium": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif"
+            },
+            "alt": "https://book.douban.com/subject/1999434/",
+            "id": "1999434",
+            "publisher": "",
+            "isbn10": "2825707392",
+            "isbn13": "9782825707395",
+            "title": "''",
+            "url": "https://api.douban.com/v2/book/1999434",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "",
+            "price": ""
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 51,
+                "average": "8.8",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "贾文波"
+            ],
+            "pubdate": "2007-3",
+            "tags": [
+                {
+                    "count": 17,
+                    "name": "意大利语",
+                    "title": "意大利语"
+                },
+                {
+                    "count": 9,
+                    "name": "工具书",
+                    "title": "工具书"
+                },
+                {
+                    "count": 9,
+                    "name": "Italiano",
+                    "title": "Italiano"
+                },
+                {
+                    "count": 4,
+                    "name": "意大利",
+                    "title": "意大利"
+                },
+                {
+                    "count": 3,
+                    "name": "意英汉",
+                    "title": "意英汉"
+                },
+                {
+                    "count": 2,
+                    "name": "小语种",
+                    "title": "小语种"
+                },
+                {
+                    "count": 1,
+                    "name": "大学把它翻烂",
+                    "title": "大学把它翻烂"
+                },
+                {
+                    "count": 1,
+                    "name": "Haidaye",
+                    "title": "Haidaye"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s10426763.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "386",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s10426763.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s10426763.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s10426763.jpg"
+            },
+            "alt": "https://book.douban.com/subject/2056346/",
+            "id": "2056346",
+            "publisher": "外语教学与研究出版社",
+            "isbn10": "7560064841",
+            "isbn13": "9787560064840",
+            "title": "意英汉图解词典",
+            "url": "https://api.douban.com/v2/book/2056346",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "《意英汉图解词典》：众所周知，图片的使用有助于对信息的理解与记忆，基于此原则，这本配有大量插图的词典用意、英、汉三种语言介绍了大量的当代有用词汇。《意英汉图解词典》按主题划分，涵盖了从餐馆到健身房、住宅到工作场所、外层空间到动物王国等日常生活中的大多数方面。书中还附有补充单词和词组以备日常对话及扩充词汇量之用。",
+            "series": {
+                "id": "13076",
+                "title": "英法德日汉图解词典"
+            },
+            "price": "45.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 11,
+                "average": "7.9",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "桃晓轩"
+            ],
+            "pubdate": "2008-07",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "天使降临氧气馆",
+                    "title": "天使降临氧气馆"
+                },
+                {
+                    "count": 3,
+                    "name": "小说",
+                    "title": "小说"
+                },
+                {
+                    "count": 1,
+                    "name": "小说,散文,随笔",
+                    "title": "小说,散文,随笔"
+                },
+                {
+                    "count": 1,
+                    "name": "''",
+                    "title": "''"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s3246020.jpg",
+            "binding": "平装",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "256",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s3246020.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s3246020.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s3246020.jpg"
+            },
+            "alt": "https://book.douban.com/subject/3199490/",
+            "id": "3199490",
+            "publisher": "２１世纪出版社",
+            "isbn10": "7539142464",
+            "isbn13": "9787539142463",
+            "title": "水瓶座天使·天使降临氧气馆",
+            "url": "https://api.douban.com/v2/book/3199490",
+            "alt_title": "",
+            "author_intro": "桃晓轩，她是水瓶座的女生，脑袋一根筋，但是却可以同时爱上N多帅哥。她执著并且固执，不懂得如何去拒绝别人，答应的事也一定会去做。她喜欢收藏各种CD+各种杂志，全部都收藏在她家那亮晶晶的玻璃橱柜中，哇哈哈！喜欢购物、涂鸦、在课堂上睡大头觉……\n她最大的心愿是带着全家去国外旅行！还有还有，希望可以获得读者亲亲们的喜爱！",
+            "summary": "当你悲伤时，希望有人来拯救你吗？当你痛苦时，希望有人给你温暖吗？请记得在天使降临的地方，会有一双翅膀静静地守护着你，直到你转身发现的那一瞬间——\n幻化成风的日子里，你答应过我，要一起去寻找那代表幸福的花。\n澈，不羁炽热的精灵；紫瞳，冰冷高傲的骑士；怜一，温柔忧郁的王子。\n天使，只有一个。\n在记忆重叠的边缘，他们同时见到了天使降临的容颜——\n那个坚强、执著、总是微笑的女孩。\n于是，那个刻骨铭心的夏季，发生了四个人重叠着的爱。\n那个人，血缘的哥哥。\n那个人，炫目的少年。\n那个人，神秘的涟漪。\n爱，无奈着，阴错阳差。\n邂逅的一切，这次，幸福吧。\n与我们唯一的天使，一起幻化成风吧。\n我们，相遇，微笑，牵手，\n一起呼吸纯净的氧气，\n一起数天堂里的星星，\n然后，\n再不分离。",
+            "price": "22.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 10,
+                "average": "9.2",
+                "min": 0
+            },
+            "subtitle": "The Shooting Script (Newmarket Shooting Script)",
+            "author": [
+                "Scott Neustadter",
+                "Michael H. Weber"
+            ],
+            "pubdate": "2009-12-22",
+            "tags": [
+                {
+                    "count": 7,
+                    "name": "剧本",
+                    "title": "剧本"
+                },
+                {
+                    "count": 2,
+                    "name": "小说",
+                    "title": "小说"
+                },
+                {
+                    "count": 2,
+                    "name": "days",
+                    "title": "days"
+                },
+                {
+                    "count": 2,
+                    "name": "Byebye",
+                    "title": "Byebye"
+                },
+                {
+                    "count": 2,
+                    "name": "500",
+                    "title": "500"
+                },
+                {
+                    "count": 1,
+                    "name": "外国文学",
+                    "title": "外国文学"
+                },
+                {
+                    "count": 1,
+                    "name": "of",
+                    "title": "of"
+                },
+                {
+                    "count": 1,
+                    "name": "Summer",
+                    "title": "Summer"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s4089271.jpg",
+            "binding": "Paperback",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "128",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s4089271.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s4089271.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s4089271.jpg"
+            },
+            "alt": "https://book.douban.com/subject/4184075/",
+            "id": "4184075",
+            "publisher": "Newmarket Press",
+            "isbn10": "1557049211",
+            "isbn13": "9781557049216",
+            "title": "(500) Days of Summer",
+            "url": "https://api.douban.com/v2/book/4184075",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "",
+            "price": "USD 19.95"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 8,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "pubdate": "1987-1",
+            "image": "https://img1.doubanio.com/view/subject/m/public/s7013038.jpg",
+            "binding": "",
+            "images": {
+                "small": "https://img1.doubanio.com/view/subject/s/public/s7013038.jpg",
+                "large": "https://img1.doubanio.com/view/subject/l/public/s7013038.jpg",
+                "medium": "https://img1.doubanio.com/view/subject/m/public/s7013038.jpg"
+            },
+            "alt": "https://book.douban.com/subject/4063229/",
+            "id": "4063229",
+            "title": "艺术设计的平面构成",
+            "author_intro": "朝仓直巳（あさくらなおみ，1929年9月22日－2003年2月14日，设计家。 东京教育大学（现筑波大学）教育学院艺术主攻构成毕业。亚洲基础造型学会第一任会长，中国、台湾、韩国等主要在东亚的基础造型的制作和研究的基础投入许多心力。\n把福岛大学教育学院做为开端，到京都教育 大学，筑波大学，文教大学教育学院等，主要在于美术教育。主要的著作中有‘纸的构成设计’（美术出版社），‘艺术·设计平面构成’（六耀社），‘艺术·设计的立体构成’（六耀社），‘艺术·设计的光的构成’（六耀社），‘艺术·设计的色彩构成’（六耀社），‘纸基础造型·艺术·设计’（美术出版社）等。\n在担任台湾昆山科技大学客座教授期间，在暂时回国时在茨城县自家附近发生车祸意外死亡。教育社会学家朝仓景树为朝仓直巳的长男。\n吕清夫 1942年生，台湾基隆市人。日本国立筑波大学硕士，日本早稻田大学艺术史研究所研究。现任国立台湾师范大学工艺系专任副教授、国立编译馆编审委员、国科会专题研究计划主持人。\n译者吕清夫曾是朝仓直巳在日本筑波大学研究所构成课程的学生",
+            "tags": [
+                {
+                    "count": 12,
+                    "name": "设计",
+                    "title": "设计"
+                },
+                {
+                    "count": 9,
+                    "name": "平面设计",
+                    "title": "平面设计"
+                },
+                {
+                    "count": 3,
+                    "name": "日本",
+                    "title": "日本"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "price": "8.90",
+            "translator": [
+                "吕清夫"
+            ],
+            "catalog": "1.平面构成的目的\n2.造型的要素\n3.造型文法A——构图\n4.造型文法B——幻象的创造\n5.技巧的开始",
+            "pages": "285",
+            "publisher": "上海人民美术出版社",
+            "isbn10": "SH8018-15212",
+            "alt_title": "",
+            "url": "https://api.douban.com/v2/book/4063229",
+            "author": [
+                "[日]朝仓直巳"
+            ],
+            "summary": "本书是根据台湾梵谷图书出版事业有限公司出版发行的同名版本翻印的。除封面重新设计、序言个别段落及参考文献、图版作者索引删去外，其余均照原样付印。"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 16,
+                "average": "6.6",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "涉谷遥"
+            ],
+            "pubdate": "2011-4-1",
+            "tags": [
+                {
+                    "count": 8,
+                    "name": "涉谷遥",
+                    "title": "涉谷遥"
+                },
+                {
+                    "count": 2,
+                    "name": "萤火之森",
+                    "title": "萤火之森"
+                },
+                {
+                    "count": 2,
+                    "name": "中国",
+                    "title": "中国"
+                },
+                {
+                    "count": 1,
+                    "name": "言情",
+                    "title": "言情"
+                },
+                {
+                    "count": 1,
+                    "name": "已入",
+                    "title": "已入"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                },
+                {
+                    "count": 1,
+                    "name": "0.",
+                    "title": "0."
+                },
+                {
+                    "count": 1,
+                    "name": "0",
+                    "title": "0"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img1.doubanio.com/view/subject/m/public/s6513857.jpg",
+            "binding": "平装",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "ebook_url": "https://read.douban.com/ebook/12236969/",
+            "pages": "176",
+            "images": {
+                "small": "https://img1.doubanio.com/view/subject/s/public/s6513857.jpg",
+                "large": "https://img1.doubanio.com/view/subject/l/public/s6513857.jpg",
+                "medium": "https://img1.doubanio.com/view/subject/m/public/s6513857.jpg"
+            },
+            "alt": "https://book.douban.com/subject/6523391/",
+            "id": "6523391",
+            "publisher": "山东画报出版社",
+            "isbn10": "7547403409",
+            "isbn13": "9787547403402",
+            "title": "萤火之森",
+            "url": "https://api.douban.com/v2/book/6523391",
+            "alt_title": "",
+            "author_intro": "2月14日生。A型，活人，青年一枚，柴废系。低音及西装控。迷恋重金属摇滚、日本老歌、夜景、冰激凌、少年和美人。地下实验电影及日本早期PINKFILM影收集者。",
+            "summary": "TS潜伏黑马涉谷遥，突破重围呕心锤炼之作。童话梦境+超警戒幻想+秘密缔造的阴霾。2011年初夏，最想与“即将告别的朋友”分享的萤火之光。分离充满感伤，爱却从未远离。性格善良的摩哆哆+喜欢收集昆虫的虚赫+天生智障的造泰+敏感的女孩潘多拉啦。被孤立的群体 被杀死的狗 被捆绑的恐惧 被窥视的人生……童年的噩梦如影随形、彼此坚守的信念、到底是谁潜藏在他们成长的岁月里，开着恶意的玩笑，孤寂、凄凉、无奈、晦涩……是什么带来了共震的力量？",
+            "ebook_price": "2.99",
+            "price": "18.00"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 12,
+                "average": "7.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "庄秦、等"
+            ],
+            "pubdate": "2012-8",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "恐怖",
+                    "title": "恐怖"
+                },
+                {
+                    "count": 2,
+                    "name": "灵异",
+                    "title": "灵异"
+                },
+                {
+                    "count": 1,
+                    "name": "网络小说",
+                    "title": "网络小说"
+                },
+                {
+                    "count": 1,
+                    "name": "短篇集",
+                    "title": "短篇集"
+                },
+                {
+                    "count": 1,
+                    "name": "悬疑",
+                    "title": "悬疑"
+                },
+                {
+                    "count": 1,
+                    "name": "中国",
+                    "title": "中国"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                },
+                {
+                    "count": 1,
+                    "name": "hh",
+                    "title": "hh"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s24928142.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "316",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s24928142.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s24928142.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s24928142.jpg"
+            },
+            "alt": "https://book.douban.com/subject/11594180/",
+            "id": "11594180",
+            "publisher": "",
+            "isbn10": "7539953667",
+            "isbn13": "9787539953663",
+            "title": "每家都有灵异地",
+            "url": "https://api.douban.com/v2/book/11594180",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "每家都有灵异地，ISBN：9787539953663，作者：庄秦 等著",
+            "price": "18.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "福永　恵治",
+                "ＯＬスナイパー"
+            ],
+            "pubdate": "2011-3-1",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                },
+                {
+                    "count": 1,
+                    "name": "hh",
+                    "title": "hh"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s4686691.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "159",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s4686691.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s4686691.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s4686691.jpg"
+            },
+            "alt": "https://book.douban.com/subject/6060369/",
+            "id": "6060369",
+            "publisher": "ベストセラーズ",
+            "isbn10": "4584132933",
+            "isbn13": "9784584132937",
+            "title": "オフィスレディ・コンプレックス",
+            "url": "https://api.douban.com/v2/book/6060369",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "ブラウスから透けて見える淡い下着、タイトスカートから浮き出る尻の肉感、ストッキングに包まれた優美な脚線…。\nオフィスで働くＯＬたちの何気ない姿が男の本能を刺激してやまない。\nサラリーマンの視点で切り取られたＯＬに対する憧れと妄想。\n日常の無防備な姿に潜む“オフィスレディ・コンプレックス”。",
+            "price": "1,680"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 2,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+
+            ],
+            "pubdate": "",
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "1",
+                    "title": "1"
+                },
+                {
+                    "count": 2,
+                    "name": "中国银行",
+                    "title": "中国银行"
+                },
+                {
+                    "count": 1,
+                    "name": "转正需要",
+                    "title": "转正需要"
+                },
+                {
+                    "count": 1,
+                    "name": "教材",
+                    "title": "教材"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s23535651.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s23535651.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s23535651.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s23535651.jpg"
+            },
+            "alt": "https://book.douban.com/subject/20302016/",
+            "id": "20302016",
+            "publisher": "",
+            "isbn10": "7566000055",
+            "isbn13": "9787566000057",
+            "title": "中国银行基础业务培训教材（全二册）",
+            "url": "https://api.douban.com/v2/book/20302016",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "中国银行基础业务培训教材（全二册），ISBN：9787566000057，作者：",
+            "price": ""
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "颜煦之"
+            ],
+            "pubdate": "2012-3",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "王安石拒收礼品",
+                    "title": "王安石拒收礼品"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s10269811.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "188",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s10269811.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s10269811.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s10269811.jpg"
+            },
+            "alt": "https://book.douban.com/subject/10734460/",
+            "id": "10734460",
+            "publisher": "",
+            "isbn10": "7807188170",
+            "isbn13": "9787807188179",
+            "title": "职业道德故事",
+            "url": "https://api.douban.com/v2/book/10734460",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "美德是人生最有价值的一种资源。一个人的美德能够促进他的人生发展，并且有利于他实现自己的人生价值。颜煦之编著的《职业道德故事》中的这些故事能够启发、引导小读者，将典型人物身上的高贵品质化为自己的思想和行动，实现道德境界的升华。\n    《职业道德故事》收录了《李离自刎谢罪》、《华佗治病》、《魏征直谏》、《先学做人》、《忠于职守的捕头》、《寇准撤宴》、《王安石拒收礼物》、《主考官的骨气》、《天下廉吏第一》、《扫叶庄与踏雪斋》、《林则徐修水渠》、《张自忠二毙孙二勇》、《追求真理做真人》等数十个职业道德教育故事。",
+            "price": "23.80元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "赵文明"
+            ],
+            "pubdate": "2006-1",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "管理",
+                    "title": "管理"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s8886552.jpg",
+            "binding": "简裝本",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "249",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s8886552.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s8886552.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s8886552.jpg"
+            },
+            "alt": "https://book.douban.com/subject/1443461/",
+            "id": "1443461",
+            "publisher": "机械工业出版社",
+            "isbn10": "7111177622",
+            "isbn13": "9787111177623",
+            "title": "职场智慧168",
+            "url": "https://api.douban.com/v2/book/1443461",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "本书是168系列智慧丛书中的第四卷。也许你正面临人生的抉择，不知在职场中何去何从；也许你正困在网中，感到无奈又无助。那么，这本书正是你合适的选择。职场如战场，有智慧和兵法，就能使你身价百倍。本书从职场故事入手，结合人生的哲理与感悟，像一位资深专家一样给你指点迷津，拨开迷雾，让你学会勇敢地面对挑战，让你学会避开雷区的轰炸，让你能够真正地驰骋职场，游刃有余。\n\n　　本书以讲故事的方式，用生动、有感染力的168个故事和典型事例，来阐释职业生涯最新、最有效、最实用的智慧和法则。书中既有引人深思的点评，又有较为实用的技巧和方法，本书最大的特点是可读性和实用性的完美结合，它能最大程度地激起你的阅读兴趣，是一切追求职业成功人士的最佳选择。\n　　也许职场和人生一样，没有固定的规律可以取胜，却有许多成功的经验可以遵循。现在就翻开本书吧，你如果将故事中的道理融会贯通，定会成为纵横职场的英才。    \n　　为什么有的人能在工作中如鱼得水，屡创佳绩?为什么有的人在职场中唉声叹气，进退维谷?在竞争十分激烈、求职越来越难、工作压力不断增大的今天，掌握了克敌制胜的职场智慧，就掌握了步步领先的制敌先机。\n　　本书由168个故事或案例组成，辅与适当的评述与解说，在不知不觉中，帮助读者完成一次对职场，甚至对人生的思考。本书是你职场前进道路上的一块铺路石，是你职场成功的指路明灯。它能帮助你在人才济济的职场中脱颖而出，成为智者和胜者。",
+            "price": "29.80元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "\n      "
+            ],
+            "pubdate": "2000-10",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "私有财产",
+                    "title": "私有财产"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s10064885.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "\n      ",
+            "pages": "316",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s10064885.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s10064885.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s10064885.jpg"
+            },
+            "alt": "https://book.douban.com/subject/1648005/",
+            "id": "1648005",
+            "publisher": "人民法院出版社",
+            "isbn10": "7801610555",
+            "isbn13": "9787801610553",
+            "title": "怎样保护公民的人身权利和财产权利",
+            "url": "https://api.douban.com/v2/book/1648005",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "\n      ",
+            "price": "16.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 3,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "左清坤"
+            ],
+            "pubdate": "2001-3",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "大陆",
+                    "title": "大陆"
+                },
+                {
+                    "count": 1,
+                    "name": "医学",
+                    "title": "医学"
+                },
+                {
+                    "count": 1,
+                    "name": "''",
+                    "title": "''"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s8500171.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "第一篇 临床检验\n1 血液检验\n2 尿液检验\n3 粪便检验\n4 脑脊液检查\n5 胸水、腹水和十二指肠液检验\n6 妊娠试验\n7 阴道和前列腺分泌物检验\n8 关节腔液检验\n第二篇 生化检验\n1 肝功能检验\n2 肾功能检验\n3 激素检验\n4 其它生化检验\n第三篇 微生物和免疫学检验\n1 肝炎的检验\n2 肿瘤标志物检验\n3 性病的检验\n4 其它微生物和免疫学检验\n",
+            "pages": "203",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s8500171.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s8500171.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s8500171.jpg"
+            },
+            "alt": "https://book.douban.com/subject/1597253/",
+            "id": "1597253",
+            "publisher": "天津科技翻译出版公司",
+            "isbn10": "7543313022",
+            "isbn13": "9787543313026",
+            "title": "教你看懂化验报告",
+            "url": "https://api.douban.com/v2/book/1597253",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "《教你看懂化验报告(健康版)》介绍了临床检验、生化检验、微生物和免疫学检验等现行医疗检查中的每项检查的参考值和异常值及异常值在临床上的意义等内容。《教你看懂化验报告(健康版)》以通俗易懂的形式对人体各系统疾病的相关化验进行了简要介绍。供大家学习和参考。",
+            "price": "18.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 1,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "王勇英"
+            ],
+            "pubdate": "2009-1",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "王勇英",
+                    "title": "王勇英"
+                },
+                {
+                    "count": 1,
+                    "name": "怪同学系列",
+                    "title": "怪同学系列"
+                },
+                {
+                    "count": 1,
+                    "name": "小说",
+                    "title": "小说"
+                },
+                {
+                    "count": 1,
+                    "name": "儿童文学",
+                    "title": "儿童文学"
+                },
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s6457746.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "152",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s6457746.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s6457746.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s6457746.jpg"
+            },
+            "alt": "https://book.douban.com/subject/3529580/",
+            "id": "3529580",
+            "publisher": "福建少年儿童出版社",
+            "isbn10": "7539533129",
+            "isbn13": "9787539533124",
+            "title": "选一个人做坏蛋",
+            "url": "https://api.douban.com/v2/book/3529580",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "怪同学希望自己能早日成为出色的侦探。狄答决定设计案情对怪同学进行针对性的破案训练。王小怪、王小褂和钱花花这帮朋友非常枳极地配合和帮助。于是便出现了一系列让人捧腹不已的好玩趣事。后来，他们突然遇到一件预想不到的“大事”，怪同学勇敢地开始尝试独立破案……",
+            "price": "14.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 1,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "罗林",
+                "刘平"
+            ],
+            "pubdate": "2006-5",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "外语",
+                    "title": "外语"
+                },
+                {
+                    "count": 1,
+                    "name": "阿拉伯语",
+                    "title": "阿拉伯语"
+                },
+                {
+                    "count": 1,
+                    "name": "''",
+                    "title": "''"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s4433466.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "阿拉伯语字母语音对照表\n1. 过来\n2. 赶紧的\n3. 就这么办吧\n4. 可能是吧\n5. 将就一下吧\n6. 试试吧\n7. 胡说八道\n8. 多此一举\n9. 有什么了不起的\n10. 那又怎么样\n11. 那是\n12. 可不是嘛\n13. 时间不早了\n14. 出事儿了\n15. 是这么回事\n16. 你说得太对了\n17. 请相信我\n18. 想想办法吧\n19. 瞎胡闹\n20. 真荒唐\n21. 真黑\n22. 真无聊\n23. 真没意思\n24. 行(好吧)\n25. 我也是\n26. 别拿我开心\n27. 怎么搞的\n28. 太夸张了吧\n29. 没办法\n30. 没辙\n31. 让我想想\n32. 我请客\n33. 就指望你了\n34. 臭死了\n……",
+            "pages": "403",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s4433466.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s4433466.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s4433466.jpg"
+            },
+            "alt": "https://book.douban.com/subject/1817473/",
+            "id": "1817473",
+            "publisher": "中国宇航",
+            "isbn10": "7802180767",
+            "isbn13": "9787802180765",
+            "title": "阿拉伯语开口就会说(赠MP3光盘)",
+            "url": "https://api.douban.com/v2/book/1817473",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "学习阿拉伯语，开口就是成功。只要开口，你的一只脚就已经跨入阿拉伯语的大门。394个短句体现了当今阿拉伯语口语的流行趋势。例句用对话的形式表现出来，让读者在一个完整的语境中更容易体会、理解。本书适用于阿拉伯语初学者，特别是想在短期内迅速提高口语水平的学习者。",
+            "price": "14.40元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 1,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "唐正芒"
+            ],
+            "pubdate": "2009-2",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "''",
+                    "title": "''"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s6052336.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "518",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s6052336.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s6052336.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s6052336.jpg"
+            },
+            "alt": "https://book.douban.com/subject/3882167/",
+            "id": "3882167",
+            "publisher": "",
+            "isbn10": "7010077207",
+            "isbn13": "9787010077208",
+            "title": "马克思主义中国化历程中的湘籍无产阶级革命家思想研究",
+            "url": "https://api.douban.com/v2/book/3882167",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "《马克思主义中国化历程中的湘籍无产阶级革命家思想研究》内容主要包括：绪论，一、“湘籍无产阶级革命家”的概念界定，二、“湘籍无产阶级革命家与毛泽东思想”命题的科学内涵，三、研究“湘籍无产阶级革命家与毛泽东思想”的意义和方法，第一章 刘少奇的经济建设思想，一、新民主主义经济思想，二、对经济体制改革的探索等等。",
+            "series": {
+                "id": "20717",
+                "title": "毛泽东与马克思主义中国化研究丛书"
+            },
+            "price": "70.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "贺景卫"
+            ],
+            "pubdate": "1970-1",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s24606454.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "192",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s24606454.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s24606454.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s24606454.jpg"
+            },
+            "alt": "https://book.douban.com/subject/2234663/",
+            "id": "2234663",
+            "publisher": "高等教育",
+            "isbn10": "7040211874",
+            "isbn13": "9787040211870",
+            "title": "数码服装设计与表现技法",
+            "url": "https://api.douban.com/v2/book/2234663",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "《数码服装设计与表现技法:CorelDRAW》是服装设计专业系列教材之一。《数码服装设计与表现技法:CorelDRAW》按照服装设计基础的知识结构要求，以当今最普及，最受欢迎的平面绘图软件之一——“CorelDRAW”，采用实例讲解的方法，进行服装款式、服装图案、服装面料、服装辅料．服装画、服装样板、服装工业制单等的设计与制作。\n《数码服装设计与表现技法:CorelDRAW》涉及的服装专业知识面广，操作技能入门浅，尤其是贯穿《数码服装设计与表现技法:CorelDRAW》的绘图软件本身就是一个非常优秀、非常普及的软件，也是服装专业必须掌握的常用软件。《数码服装设计与表现技法:CorelDRAW》的专业知识丰富全面，绘制技法科学实用，视觉效果精彩，适用于各级各类服装艺术设计院校的学生使用。",
+            "price": "40.10元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "徐航//徐九南//熊威"
+            ],
+            "pubdate": "2010-7",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "夏木南生",
+                    "title": "夏木南生"
+                },
+                {
+                    "count": 1,
+                    "name": "''",
+                    "title": "''"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img1.doubanio.com/view/subject/m/public/s10268669.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "第1章  概论  1．1 机电一体化的定义  1．2 机电一体化系统的基本构成  1．3 机电一体化相关技术  1．4 机电一体化系统的设计    1．4．1 机电一体化系统的分类    1．4．2 机电一体化系统开发的类型    1．4．3 机电一体化系统设计方案的常用方法    1．4．4 机电一体化系统设计    1．4．5 机电一体化系统的设计流程  1．5 机电一体化技术的发展历程和发展趋势    1．5．1 机电一体化技术发展历程    1．5．2 机电一体化技术发展趋势  本章小结  思考题第12章  机械技术  2．1 概述  2．2 机械传动    2．2．1 同步带传动    2．2．2 齿轮传动    2．2．3 谐波齿轮传动    2．2．4 滚珠螺旋传动    2．2．5 滑动螺旋传动  2．3 支承部件    2．3．1 轴系的支承部件    2．3．2 支承件  2．4 导轨副    2．4．1 导轨副的种类、基本要求和材料选择    2．4．2 滚动摩擦导轨副    2．4．3 滑动摩擦导轨副  本章小结  思考题第3章  自动化控制技术  3．1 自动控制技术概述    3．1．1 自动控制系统的组成    3．1．2 自动控制系统的组成和性能指标    3．1．3 开环控制和闭环控制  3．2 PID控制技术    3．2．1 数字PID控制    3．2．2 智能PID控制方法  3．3 模糊控制理论    3．3．1 模糊集合的基本概念    3．3．2 模糊推理    3．3．3 模糊控制器尿理及设计  3．4 计算机控制系统    3．4．1 计算机控制系统的组成    3．4．2 计算机在控制中的应用方式．    3．4．3 工业控制计算机  3．5 先进控制方法简介  3．5．1 模型预测控制    3．5．2 自适应控制    3．5．3 智能控制    3．5．4 神经控制  本章小结  思考题第4章  检测技术与传感器  4．1 概述一    4．1．1 检测系统_的组成    4．1．2 传感器的概念及基本特性    4．1．3 信号传输与处理电路  4．2 位移检测    4．2．1 模拟式位移传感器    4．2．2 数字式位移传感器  4．3 速度、加速度检测    4．3．1 直流测速机速度检测    4．3．2 光电式转速传感器    4．3．3 加速度传感器  4．4 力、扭矩和流体压强检测一    4．4．1 力检测    4．4．2 力矩测量    4．4．3流体压强传感器  4．5 其他传感器    4．5．1 固态图像传感器(CCD)    4．5．2 激光检测    4．5．3 超声波检测  4．6 传感器的正确选择和使用    4．6．1 传感器的选择    4．6．2 传感器的正确使用  4．7 传感器前级信号处理    4．7．1 测量放大器    4．7．2 程控增益放大器    4．7．3  隔离放大器  4．8 传感器接口技术    4．8．1 传感器信号的采样／保持    4．8．2 多通道模拟信号输入  本章小结  思考题第5章  伺服控制系统  5．1 概述    5．1．1 伺服系统的结构组成    5．1．2 伺服系统类型    5．1．3 伺服系统的基本要求  5．2 执行元件    5．2．1 执行元件的类型及其特点    5．2．2 伺服电动机及其控制    5．2．3 步进电动机  5．3 电力电子变流技术和PWM型变频电路    5．3．1 开关器件特性    5．3．2 变流技术    5．3．3 变频技术  5．4 伺服系统设计    5．4．1 方案设计    5．4．2 系统稳态设计    5．4．3 伺服系统动态设计  本章小结  思考题第6章  接口技术  6．1 接口技术概述    6．1．1 接口的定义    6．1．2 接口的分类  6．2 人机交互接口技术    6．2．1 人机接口类型及特点    6．2．2 输入接口    6．2．3 输出接口  6．3 模拟量输入／输出通道接口技术    6．3．1 A／D转换接口    6．3．2 D／A转换接口    6．3．3控制量输出接口  6．4 总线接口技术    6．4．1 串行通信基本概念    6．4．2 串行通信标准总线(RS-232-c)    6．4．3 SPI总线    6．4．4 I2C总线  本章小结  思考题第7章  典型机电一体化系统  7．1 机器人    7．1．1 机器人的由来    7．1．2 机器人的组成    7．1．3 机器人的分类    7．1．4 机器人技术的进展  7．2 数控机床    7．2．1 数控机床的产生    7．2．2 数控机床的组成    7．2．3 数控机床的基本工作原理    7．2．4 数控机床的分类    7．2．5 数控机床的加工特点    7．2．6 数控机床的发展趋势    7．2．7 Roeders RHP800三轴数控超高速加工中心  7．3 雷达跟踪系统    7．3．1 雷达光电跟踪液压伺服系统的技术指标和要求    7．3．2 雷达光电跟踪液压伺服系统的特点分析    7．3．3 雷达无线伺服系统框图    7．3．4 实现方式  7．4 自动化制造系统    7．4．1 刚性自动化生产    7．4．2 柔性制造单元FMC      7．4．3 柔性制造系统FMS    7．4．4 柔性制造线FML    7．4．5 柔性装配线FAL    7．4．6 计算机集成制造系统(CIMS)  本章小结  思考题参考文献",
+            "pages": "282",
+            "images": {
+                "small": "https://img1.doubanio.com/view/subject/s/public/s10268669.jpg",
+                "large": "https://img1.doubanio.com/view/subject/l/public/s10268669.jpg",
+                "medium": "https://img1.doubanio.com/view/subject/m/public/s10268669.jpg"
+            },
+            "alt": "https://book.douban.com/subject/5284381/",
+            "id": "5284381",
+            "publisher": "北京理工大学",
+            "isbn10": "7564036265",
+            "isbn13": "9787564036263",
+            "title": "机电一体化技术基础",
+            "url": "https://api.douban.com/v2/book/5284381",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "《机电一体化技术基础》从“系统”的角度出发，对机电一体化系统的基本概念和原理、机械技术、电子技术、自动控制技术、传感检测技术、接口技术、伺服控制技术等的工作原理、特点、选用原则和设计方法进行了系统的阐述；同时从机电有机结合的角度，对系统的稳态设计和动态设计方法作了简单介绍；最后列举了一些典型的机电一体化系统设计实例。\n《机电一体化技术基础》特色鲜明、内容丰富、条理清晰、图文并茂，既可作为工程型、应用型高等院校相关专业的专业课教材，也可供夜大、函大、职大等选用。",
+            "price": "37.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "唐红亮",
+                "廖建华",
+                "秦戈亮",
+                "秦戈亮",
+                "唐红亮",
+                "廖建华"
+            ],
+            "pubdate": "2005-5-1",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s5664911.jpg",
+            "binding": "平装(无盘)",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "304",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s5664911.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s5664911.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s5664911.jpg"
+            },
+            "alt": "https://book.douban.com/subject/1318718/",
+            "id": "1318718",
+            "publisher": "电子工业",
+            "isbn10": "7121011751",
+            "isbn13": "9787121011757",
+            "title": "ASP动态网页设计应用教程",
+            "url": "https://api.douban.com/v2/book/1318718",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "ASP（Active Server Pages）是当前最流行的Web应用程序开发工具之一。本书从初学者角度出发，结合实例由浅入深地介绍了建立一个基于ASP的动态网站所需要的各种技术。\n    本书主要依据高等院校、各类培训机构旨在培养应用型和技术型人才这一培养目标而编写。在本书的指导下，读者可以掌握基本的网页编程技术，学会HTML标记语言的使用、VBScript脚本语言编程方法及ASP动态网页设计，掌握目前网站中流行的页面计数器、分页显示、访客留言、聊天室、注册登录、数据资料查询等与数据库相关联的编程技术。书中最后一章用一套完整的动态网站程序圆满地将书中所讲内容贯穿于中，供读者参考。\n    本书结构合理，简明扼要，例题丰富，即学即用，符合教师教学和学生学习的习惯。书中每章后均附有大量习题，以加强学生职业技能训练，可作为高等学校、高职学校学生学习网页编辑的教材，也可作为初、中级网页速成培训教材，以及供从事用ASP进行动态网页设计的相关工作人员学习和参考。",
+            "price": "25.00元"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "numRaters": 0,
+                "average": "0.0",
+                "min": 0
+            },
+            "subtitle": "",
+            "author": [
+                "Eric Noreen"
+            ],
+            "pubdate": "2007-9",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "‘’",
+                    "title": "‘’"
+                }
+            ],
+            "origin_title": "",
+            "image": "https://img3.doubanio.com/view/subject/m/public/s7671163.jpg",
+            "binding": "",
+            "translator": [
+
+            ],
+            "catalog": "",
+            "pages": "",
+            "images": {
+                "small": "https://img3.doubanio.com/view/subject/s/public/s7671163.jpg",
+                "large": "https://img3.doubanio.com/view/subject/l/public/s7671163.jpg",
+                "medium": "https://img3.doubanio.com/view/subject/m/public/s7671163.jpg"
+            },
+            "alt": "https://book.douban.com/subject/7921458/",
+            "id": "7921458",
+            "publisher": "",
+            "isbn10": "0073368520",
+            "isbn13": "9780073368528",
+            "title": "Managerial Accounting for Managers",
+            "url": "https://api.douban.com/v2/book/7921458",
+            "alt_title": "",
+            "author_intro": "",
+            "summary": "McGraw-Hill's Homework Manager(TM) is a web-based supplement that duplicates problem structures directly from the end-of-chapter material in the textbook, using algorithms to provide a limitless supply of online self-graded practice and assignment problems. The algorithmic test bank is also included in Homework Manager.",
+            "price": "$ 78.54"
+        }
+    ]
+}

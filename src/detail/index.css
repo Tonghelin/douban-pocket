@@ -1,0 +1,112 @@
+ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+.wrap {
+    letter-spacing: 2px;
+}
+nav{
+    color: #fff;
+    background: #188eee;
+    padding-right: 45px;
+    display: flex;
+    /*flex:1;*/
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav h4{
+    font-size: 18px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 45px;
+}
+.goBack {
+    /*border: 1px solid #eeeeee;*/
+    background: #188eee;
+    display: inline-block;
+    width: 45px;
+    height: 35px;
+    line-height: 45px;
+    text-align: center;
+    font-size: 12px;
+}
+.detail-wrap {
+    margin-top: 50px;
+}
+.detail-header {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.book-cover {
+    width: 110px;
+    height: 140px;
+    padding: 10px;
+}
+.detail-header ul{
+    padding: 5px 0;
+    width: 230px;
+}
+.detail-header ul li{
+    line-height: 22px;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+
+}
+.detail-header ul li.label-sign{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+    height: 25px;
+}
+.books-tags {
+    line-height: 25px;
+    border-radius: 5px;
+    margin-right: 8px;
+    background: orange;
+    color: #fff;
+    display: inline;
+}
+.detail-content {
+    margin:0 10px;
+    padding: 10px 0px;
+    border-top: 1px solid #ddd;
+}
+h5 {
+    margin: 0px;
+}
+p{
+    text-indent: 2em;
+}
+
+.movie-detail-header {
+    padding: 10px;
+}
+
+
+/*演员列表*/
+.movie-casts {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.casts-item{
+    width: 110px;
+}
+.casts-item span{
+    display: inline-block;
+    width: 110px;
+    text-align: center;
+}
+.casts-item img{
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    width: 110px;
+}
